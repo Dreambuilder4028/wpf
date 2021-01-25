@@ -1,0 +1,7 @@
+{
+  "name": "WPFormatter 1.0",
+  "version": "1.0",
+  "modules": [
+    "functions.py"
+  ]
+}
