@@ -289,7 +289,7 @@ class Ui_EnglishWindow(object):\\n
         QMetaObject.connectSlotsByName(EnglishWindow)\\n
     # setupUi\\n
     def retranslateUi(self, EnglishWindow):\\n
-        EnglishWindow.setWindowTitle(QCoreApplication.translate("EnglishWindow", u"WPFormatter 1.0 Community", None))\\n
+        EnglishWindow.setWindowTitle(QCoreApplication.translate("EnglishWindow", u"WPFormatter 2.1 Community", None))\\n
         self.groupBox_src.setTitle(QCoreApplication.translate("EnglishWindow", u"\u6e90\u6587\u4ef6", None))\\n
         self.label.setText(QCoreApplication.translate("EnglishWindow", u"\u6e90\u6587\u4ef6\u8def\u5f84:", None))\\n
         self.pushButton_src_browse.setText("")\\n
