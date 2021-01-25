@@ -1,4 +1,4 @@
-# FUNCTIONS FOR WPFORMATTER - LENTH 12436
+#FUNCTIONS12436
 from win32com.client import Dispatch, constants
 
 
